@@ -1,0 +1,29 @@
+h1 {
+  color: #feea01;
+  font-size: 100px;
+  text-align: center;
+}
+
+img {
+  height: 200px;
+
+}
+
+body {
+  background-color: #44cfc9;
+  text-align: center;
+}
+
+p {
+  color: #feea01;
+  text-align: center;
+  font-size: 20px;
+}
+
+hr {
+  border-color: #feea01;
+  border-style: dotted;
+  border-left: none;
+  border-top: none;
+  border-width: 20px;
+}
